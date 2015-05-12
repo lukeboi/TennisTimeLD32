@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StarHandler.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerMove.cs" Line="28" Column="32" />
+      <File FileName="Assets\Scripts\StarHandler.cs" Line="10" Column="3" />
+      <File FileName="Assets\Scripts\Restarter.cs" Line="5" Column="41" />
+      <File FileName="Assets\Scripts\ButtonSelect.cs" Line="4" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
